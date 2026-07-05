@@ -1,0 +1,7 @@
+title: M2Health Knowledge Hub
+description: Bilingual knowledge hub for M2Health homecare, nursing, diabetic care, nutrition, pharmacy, AI health assistant and chronic disease management.
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+lang: zh-CN
